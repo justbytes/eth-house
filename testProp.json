@@ -1,0 +1,31 @@
+{
+  "name": "293 Lafayette St PENTHOUSE 1, New York, NY 10012",
+  "description": "Luxury NYC Penthouse",
+  "image": "https://ipfs.io/ipfs/QmNMvYKRGRWzErGKjA43UraqZ9ppizTzSKajQod8C9SNm7",
+  "attributes": [
+    {
+      "address": "Address",
+      "value": "293 Lafayette St PENTHOUSE 1, New York, NY 10012"
+    },
+    {
+      "purchase_price": "Purchase Price",
+      "value": ".1"
+    },
+    {
+      "beds": "Bed Rooms",
+      "value": 1
+    },
+    {
+      "baths": "Bathrooms",
+      "value": 1
+    },
+    {
+      "square_feet": "Square Feet",
+      "value": 741
+    },
+    {
+      "year_built": "Year Built",
+      "value": 2015
+    }
+  ]
+}
